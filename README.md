@@ -13,14 +13,6 @@
 ## Требования
 
 - Docker и Docker Compose
-- Или для ручной разработки:
-  - Python 3.11+
-  - Node.js 20+
-  - pnpm (`corepack enable && corepack prepare pnpm@latest --activate`)
-  - PostgreSQL 15+
-  - Redis 7+
-
-## Быстрый старт (Docker Compose)
 
 1. Склонировать репозиторий:
 
@@ -69,3 +61,8 @@ docker-compose up --build
    - Swagger UI: http://localhost:8000/api/docs/
    - Redoc: http://localhost:8000/api/redoc/
    - Django Admin: http://localhost:8000/admin/
+
+6. Проверить в строке поиска:
+   -Долженко
+   -Лозина
+   -ПИ-341
